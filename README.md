@@ -1,4 +1,5 @@
 # lakshay-first-repo
 this is my first git repository.
 <br>
-<b>Author-Lakshay porwal</b>
+<i>Author-Lakshay porwal</i>
+<p>i have added a new code</p>
